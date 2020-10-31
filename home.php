@@ -21,7 +21,7 @@ include "verifica_sessao.php";
                 </div>     
 
                 <div class="col-sm-12 controls margin-top-md">
-                  <a href="logout.php" class="btn-lg btn-danger">Sair </a>
+                  <a href="logout.php" class="btn-lg btn-danger">Sair</a>
                 </div>
             </div>  
         </div>

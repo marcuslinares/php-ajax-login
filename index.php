@@ -5,8 +5,9 @@ session_start();
 
 //Check if the session was started
 if(isset($_SESSION['logado']) &&  $_SESSION['logado'] == 'SIM'):
-    //If session is created redirect to the home page
-	header("Location: home.php");
+
+//If session is created redirect to the home page
+header("Location: home.php");
 endif;
 ?>
 
